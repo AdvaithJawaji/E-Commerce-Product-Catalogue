@@ -98,27 +98,27 @@ This project demonstrates:
 ✅ E-Commerce Workflow Implementation
 
 ## 📸 MAJOR PAGES
-Home Page
-Product Catalogue Page
-Product Details Page
-Category Page
-Search Page
-Wishlist Page
-Compare Products Page
-Shopping Cart Page
-Login Page
-Admin Dashboard
-404 Not Found Page
+Home Page,
+Product Catalogue Page,
+Product Details Page,
+Category Page,
+Search Page,
+Wishlist Page,
+Compare Products Page,
+Shopping Cart Page,
+Login Page,
+Admin Dashboard,
+404 Not Found Page.
 
 ## 🔮 FUTURE ENHANCEMENTS
-Payment Gateway Integration
-Order Tracking System
-Product Reviews & Ratings
-AI-Based Product Recommendations
-Inventory Management
-Multi-Vendor Support
-Cloud Database Integration
-User Profile Management
+Payment Gateway Integration,
+Order Tracking System,
+Product Reviews & Ratings,
+AI-Based Product Recommendations,
+Inventory Management,
+Multi-Vendor Support,
+Cloud Database Integration,
+User Profile Management.
 
 ## DEVELOPED BY
 Advaith Jawaji,
