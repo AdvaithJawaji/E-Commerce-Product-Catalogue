@@ -1,69 +1,74 @@
 🛍️ E-Commerce Product Catalogue System
 
 A modern, responsive, and feature-rich E-Commerce Product Catalogue built using React, Vite, Tailwind CSS, and Node.js. The application provides a seamless shopping experience with product browsing, advanced filtering, wishlist management, product comparison, cart functionality, and an admin dashboard.
-
-📌 Project Overview
+📌 PROJECT OVERVIEW
 
 The E-Commerce Product Catalogue System is designed to help users easily explore, compare, and manage products through an interactive and user-friendly interface.
 
-The platform focuses on delivering a smooth shopping experience with modern UI design, responsive layouts, and efficient state management.
+The platform focuses on delivering a smooth shopping experience with:
 
-✨ Key Features
+Advanced Product Browsing
+Smart Search & Filtering
+Wishlist Management
+Product Comparison
+Shopping Cart Functionality
+Admin Dashboard Analytics
+✨ KEY FEATURES
 🏠 Home Page
-Attractive landing page
-Featured product sections
-Category-based navigation
-Responsive design for all devices
+Attractive Landing Page
+Featured Products Section
+Category-Based Navigation
+Fully Responsive Design
 📦 Product Management
-Product listing and grid view
-Detailed product information
-Category and sub-category browsing
-Product search functionality
-🔍 Smart Filtering
-Filter products by category
-Search products instantly
-Sort products based on requirements
+Product Listing
+Product Detail View
+Category Browsing
+Dynamic Product Display
+🔍 Smart Search & Filtering
+Instant Product Search
+Category Filters
+Product Sorting
 ❤️ Wishlist System
-Add products to wishlist
-Remove products from wishlist
-Persistent wishlist management
+Add Products to Wishlist
+Remove Products from Wishlist
+Quick Access to Favorites
 ⚖️ Product Comparison
-Compare multiple products side-by-side
-Analyze specifications and features
-Better purchase decision support
+Side-by-Side Product Comparison
+Feature Analysis
+Better Purchase Decisions
 🛒 Shopping Cart
-Add products to cart
-Update product quantities
-Remove products from cart
-Real-time cart updates
+Add Products to Cart
+Quantity Management
+Real-Time Cart Updates
+Cart Summary
 🔐 Authentication
-User login functionality
-Protected user actions
-Authentication state management
+User Login
+Protected Routes
+Secure User Sessions
 📊 Admin Dashboard
-Product analytics visualization
-Dashboard insights
-Administrative controls
+Product Analytics
+Data Visualization
+Administrative Controls
 🎨 Theme Management
-Light/Dark theme support
-Improved user experience
-Modern UI interactions
-🏗️ Project Architecture
+Light Mode
+Dark Mode
+Enhanced User Experience
+🏗️ PROJECT ARCHITECTURE
 Frontend (React + Vite)
         │
         ▼
 Context API State Management
         │
         ▼
-API Service Layer (Axios)
+Service Layer (Axios)
         │
         ▼
-Backend Server (Node.js + Express)
+Backend (Node.js + Express)
         │
         ▼
-Mock Data / Database Support
-🛠️ Technologies Used
-Frontend
+Mock Data / Database
+🛠️ TECHNOLOGIES USED
+Frontend Technologies
 React.js
 Vite
 Tailwind CSS
@@ -71,54 +76,55 @@ React Router DOM
 Axios
 Framer Motion
 React Icons
-Recharts
 Swiper.js
+Recharts
 React Toastify
-Backend
+Backend Technologies
 Node.js
 Express.js
-CORS
 JWT Authentication
 bcryptjs
 MySQL2
+CORS
 Development Tools
 VS Code
-Git & GitHub
+Git
+GitHub
 Nodemon
 PostCSS
 Autoprefixer
-📂 Project Modules
+📂 PROJECT MODULES
 1️⃣ Authentication Module
-Login Management
-User Authentication
+User Login
+Session Management
 Protected Access
 2️⃣ Product Catalogue Module
 Product Listing
 Product Details
 Category Navigation
 3️⃣ Search & Filter Module
-Dynamic Search
-Category Filters
+Product Search
+Dynamic Filters
 Product Sorting
 4️⃣ Wishlist Module
 Save Favorite Products
-Quick Product Access
+Manage Wishlist
 5️⃣ Product Comparison Module
-Compare Specifications
-Side-by-Side Analysis
+Compare Products
+Feature Evaluation
 6️⃣ Cart Management Module
 Add to Cart
-Quantity Management
+Update Quantities
 Cart Summary
 7️⃣ Admin Dashboard Module
-Product Analytics
-Management Features
-Performance Insights
+Analytics Dashboard
+Product Insights
+Management Controls
 8️⃣ Theme Management Module
-Dark Mode
-Light Mode
+Light Theme
+Dark Theme
 User Preferences
-📁 Folder Structure
+📁 FOLDER STRUCTURE
 client/
 │
 ├── src/
@@ -139,7 +145,7 @@ server/
 ├── server-mock.js
 ├── package.json
 └── database files
-🚀 Installation & Setup
+🚀 INSTALLATION & SETUP
 Clone Repository
 git clone https://github.com/your-username/ecommerce-catalogue.git
 Frontend Setup
@@ -150,42 +156,43 @@ Backend Setup
 cd server
 npm install
 npm run dev
-🎯 Learning Outcomes
+🎯 LEARNING OUTCOMES
 
 This project demonstrates:
 
-Modern React Development
-Component-Based Architecture
-Context API State Management
-Routing and Navigation
-REST API Integration
-Responsive UI Design
-Authentication Concepts
-Frontend-Backend Communication
-E-Commerce Workflow Implementation
-📸 Major Pages
+✅ Modern React Development
+✅ Component-Based Architecture
+✅ Context API State Management
+✅ React Routing
+✅ REST API Integration
+✅ Responsive UI Design
+✅ Authentication Concepts
+✅ Frontend–Backend Communication
+✅ E-Commerce Workflow Implementation
+
+📸 MAJOR PAGES
 Home Page
-Product Grid Page
+Product Catalogue Page
 Product Details Page
 Category Page
 Search Page
 Wishlist Page
 Compare Products Page
-Cart Page
+Shopping Cart Page
 Login Page
 Admin Dashboard
-Not Found Page
-🔮 Future Enhancements
+404 Not Found Page
+🔮 FUTURE ENHANCEMENTS
 Payment Gateway Integration
 Order Tracking System
-User Profile Management
 Product Reviews & Ratings
 AI-Based Product Recommendations
-Real-Time Inventory Management
+Inventory Management
 Multi-Vendor Support
 Cloud Database Integration
-👨‍💻 Developed By
-
+User Profile Management
+👨‍💻 DEVELOPED BY
 Advaith Jawaji
+
 B.Tech – Computer Science Engineering
 KL University
