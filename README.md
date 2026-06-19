@@ -1,4 +1,4 @@
-#🛍️ E-COMMERCE PRODUCT CATALOGUE SYSTEM
+# 🛍️ E-COMMERCE PRODUCT CATALOGUE SYSTEM
 
 A modern, responsive, and feature-rich E-Commerce Product Catalogue built using React, Vite, Tailwind CSS, and Node.js. The application provides a seamless shopping experience with product browsing, advanced filtering, wishlist management, product comparison, cart functionality, and an admin dashboard.
 # 📌 PROJECT OVERVIEW
@@ -84,10 +84,9 @@ cd server
 npm install
 npm run dev
 ```
-#🎯 LEARNING OUTCOMES
+### 🎯 LEARNING OUTCOMES
 
 This project demonstrates:
-
 ✅ Modern React Development
 ✅ Component-Based Architecture
 ✅ Context API State Management
