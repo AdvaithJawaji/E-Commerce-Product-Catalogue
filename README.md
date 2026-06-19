@@ -122,7 +122,7 @@ User Profile Management
 
 ## DEVELOPED BY
 Advaith Jawaji,
-D.Pawan Kumar
+D.Pawan Kumar.
 
-B.Tech – Computer Science Engineering
-KL University
+B.Tech – Computer Science Engineering,
+KL University.
