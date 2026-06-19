@@ -1,4 +1,4 @@
-🛍️ E-Commerce Product Catalogue System
+#🛍️ E-COMMERCE PRODUCT CATALOGUE SYSTEM
 
 A modern, responsive, and feature-rich E-Commerce Product Catalogue built using React, Vite, Tailwind CSS, and Node.js. The application provides a seamless shopping experience with product browsing, advanced filtering, wishlist management, product comparison, cart functionality, and an admin dashboard.
 # 📌 PROJECT OVERVIEW
@@ -120,3 +120,10 @@ Inventory Management
 Multi-Vendor Support
 Cloud Database Integration
 User Profile Management
+
+#DEVELOPED BY
+Advaith Jawaji,
+D.Pawan Kumar
+
+B.Tech – Computer Science Engineering
+KL University
