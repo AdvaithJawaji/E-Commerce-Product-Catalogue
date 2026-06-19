@@ -191,8 +191,8 @@ Inventory Management
 Multi-Vendor Support
 Cloud Database Integration
 User Profile Management
+
 👨‍💻 DEVELOPED BY
 Advaith Jawaji
-
 B.Tech – Computer Science Engineering
 KL University
