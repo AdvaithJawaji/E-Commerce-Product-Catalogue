@@ -1,7 +1,7 @@
-# 🛍️ E-COMMERCE PRODUCT CATALOGUE SYSTEM
+#  E-COMMERCE PRODUCT CATALOGUE SYSTEM
 
 A modern, responsive, and feature-rich E-Commerce Product Catalogue built using React, Vite, Tailwind CSS, and Node.js. The application provides a seamless shopping experience with product browsing, advanced filtering, wishlist management, product comparison, cart functionality, and an admin dashboard.
-# 📌 PROJECT OVERVIEW
+#  PROJECT OVERVIEW
 
 The E-Commerce Product Catalogue System is designed to help users easily explore, compare, and manage products through an interactive and user-friendly interface.
 
@@ -16,23 +16,23 @@ The platform focuses on delivering a smooth shopping experience with:
 
 ---
 
-# ✨ KEY FEATURES
+#  KEY FEATURES
 
-## 🏠 Home Page
+##  Home Page
 
 - Attractive Landing Page
 - Featured Products Section
 - Category-Based Navigation
 - Fully Responsive Design
 
-## 📦 Product Management
+##  Product Management
 
 - Product Listing
 - Product Detail View
 - Category Browsing
 - Dynamic Product Display
 
-## 🔍 Smart Search & Filtering
+##  Smart Search & Filtering
 
 - Instant Product Search
 - Category Filters
@@ -61,7 +61,7 @@ server/
 ├── package.json
 └── database files
 ```
-# 🚀 INSTALLATION & SETUP
+#  INSTALLATION & SETUP
 
 ## Clone Repository
 
@@ -84,20 +84,20 @@ cd server
 npm install
 npm run dev
 ```
-### 🎯 LEARNING OUTCOMES
+###  LEARNING OUTCOMES
 
 This project demonstrates:
-✅ Modern React Development
-✅ Component-Based Architecture
-✅ Context API State Management
-✅ React Routing
-✅ REST API Integration
-✅ Responsive UI Design
-✅ Authentication Concepts
-✅ Frontend–Backend Communication
-✅ E-Commerce Workflow Implementation
+ Modern React Development,
+ Component-Based Architecture,
+ Context API State Management,
+ React Routing,
+ REST API Integration,
+ Responsive UI Design,
+ Authentication Concepts,
+ Frontend–Backend Communication,
+ E-Commerce Workflow Implementation.
 
-## 📸 MAJOR PAGES
+##  MAJOR PAGES
 Home Page,
 Product Catalogue Page,
 Product Details Page,
@@ -110,7 +110,7 @@ Login Page,
 Admin Dashboard,
 404 Not Found Page.
 
-## 🔮 FUTURE ENHANCEMENTS
+##  FUTURE ENHANCEMENTS
 Payment Gateway Integration,
 Order Tracking System,
 Product Reviews & Ratings,
@@ -120,7 +120,7 @@ Multi-Vendor Support,
 Cloud Database Integration,
 User Profile Management.
 
-## DEVELOPED BY
+## DEVELOPED BY~
 Advaith Jawaji & D.Pawan Kumar.
 
 B.Tech – Computer Science Engineering,
