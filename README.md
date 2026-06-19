@@ -125,3 +125,6 @@ Advaith Jawaji & D.Pawan Kumar.
 
 B.Tech – Computer Science Engineering,
 KL University.
+
+## License
+This project is intended for educational and demonstration purposes.
