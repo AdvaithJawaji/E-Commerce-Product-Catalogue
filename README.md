@@ -121,7 +121,7 @@ Cloud Database Integration,
 User Profile Management.
 
 ## DEVELOPED BY
-Advaith Jawaji,
+Advaith Jawaji&
 D.Pawan Kumar.
 
 B.Tech – Computer Science Engineering,
