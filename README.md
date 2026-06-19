@@ -97,7 +97,7 @@ This project demonstrates:
 ✅ Frontend–Backend Communication
 ✅ E-Commerce Workflow Implementation
 
-#📸 MAJOR PAGES
+## 📸 MAJOR PAGES
 Home Page
 Product Catalogue Page
 Product Details Page
@@ -110,7 +110,7 @@ Login Page
 Admin Dashboard
 404 Not Found Page
 
-#🔮 FUTURE ENHANCEMENTS
+## 🔮 FUTURE ENHANCEMENTS
 Payment Gateway Integration
 Order Tracking System
 Product Reviews & Ratings
@@ -120,7 +120,7 @@ Multi-Vendor Support
 Cloud Database Integration
 User Profile Management
 
-#DEVELOPED BY
+## DEVELOPED BY
 Advaith Jawaji,
 D.Pawan Kumar
 
